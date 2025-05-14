@@ -1,10 +1,11 @@
 import { useState } from 'react'
+import Chai from './Chai.jsx'
 
 function App() {
   return (
     <>
-      <h1>Hello My Name is Tanay</h1>
-      <div><p>Hello my name is Tanay</p></div>
+      <h1>Chai aur react</h1>
+      <Chai />
     </>
   )
 }
